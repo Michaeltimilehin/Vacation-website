@@ -1,0 +1,141 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+}
+body{
+  background-image: url(../img/background.jpg);
+  background-size: cover;
+}
+#smaller-sec {
+  height: 50px;
+  padding-left: 200px;
+  padding-top: 10px;
+  display: flex;
+  padding-right: 220px;
+}
+
+#down-links {
+  display: flex;
+  gap: 20px;
+  font-size: 30px;
+  list-style: none;
+  margin-top: 12px;
+}
+
+.small-links {
+  color: black;
+  text-decoration: none;
+}
+
+#butt {
+  float: right;
+  padding: 10px;
+  background-color: #ad0d12;
+  color: white;
+  border: none;
+  border-radius: 5px;
+}
+
+#butt-cont {
+  width: 100%;
+}
+
+#title {
+  list-style: none;
+}
+
+#gold {
+  margin-top: 100px;
+  padding-left: 40px;
+  list-style: none;
+  justify-content: space-between;
+  gap: 5px; 
+}
+
+
+#book {
+  justify-content: space-between;
+  gap: 5px;
+}
+#comment{
+  font-size: 40px;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+#mich{
+  font-size: 27px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#silver{
+  margin-top: 100px;
+  padding-left: 40px;
+  list-style: none;
+  justify-content: space-between;
+  gap: 5px; 
+}
+
+
+#size{
+  justify-content: space-between;
+  gap: 5px;
+}
+#moment{
+  font-size: 40px;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+#text{
+  font-size: 27px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#fave{
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.2);
+}
+#gold {
+  margin-top: 100px;
+  padding-left: 40px;
+  list-style: none;
+  justify-content: space-between;
+  gap: 5px; 
+}
+
+
+#book {
+  justify-content: space-between;
+  gap: 5px;
+}
+#comment{
+  font-size: 40px;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+#mich{
+  font-size: 27px;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+#bronze{
+  margin-top: 100px;
+  padding-left: 40px;
+  list-style: none;
+  justify-content: space-between;
+  gap: 5px; 
+}
+#ice{
+  display: flex;
+  justify-content: space-between;
+}
+
+#good{
+  justify-content: space-between;
+  gap: 5px;
+}
+#content{
+  font-size: 40px;
+  margin-top: 100px;
+  padding-bottom: 40px;
+}
+
